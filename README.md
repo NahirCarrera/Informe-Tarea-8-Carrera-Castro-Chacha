@@ -14,7 +14,7 @@
   *  
   *  
 ## 2. Resumen
-  # CAPÍTULO 5: <p align=center> Circuitos RC
+  # CAPÍTULO 15: <p align=center> Circuitos RC
 ## <p align=center> PARTE 1: CIRCUITOS EN SERIE
 ## <p align=center> 15.1 El sistema de los números complejos
 
@@ -43,7 +43,7 @@
 ## <p align=center> 15.10 Localización de fallas. Una aplicación de circuito
 
 
-  # CAPÍTULO 6: <p align=center> Circuitos RL
+  # CAPÍTULO 16: <p align=center> Circuitos RL
 ## <p align=center> PARTE 1: CIRCUITOS EN SERIE 
 
 ## <p align=center> 16.1 Respuesta sinusoidal de circuitos RL en serie
