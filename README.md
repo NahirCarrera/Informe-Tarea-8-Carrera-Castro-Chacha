@@ -17,18 +17,24 @@
   # CAPÍTULO 15: <p align=center> Circuitos RC
 ## <p align=center> PARTE 1: CIRCUITOS EN SERIE
 ## <p align=center> 15.1 El sistema de los números complejos
+![15 1](https://user-images.githubusercontent.com/93829962/154377714-ca974f50-41fd-4738-a618-fd33339e8022.jpeg)
 
 ## <p align=center> 15.2 Respuesta sinusoidal de circuitos RC en serie
+![15 2](https://user-images.githubusercontent.com/93829962/154377724-8b60e4ab-8cee-44a8-b63b-02ca1c8ef799.jpeg)
 
 ## <p align=center> 15.3 Impedancia de circuitos RC en serie
+![15 3](https://user-images.githubusercontent.com/93829962/154377731-67281d35-87ad-4671-b467-8658fa3164b0.jpeg)
 
 ## <p align=center> 15.4 Análisis de circuitos RC en serie
+![15 4](https://user-images.githubusercontent.com/93829962/154377738-2d6b2ada-dc70-4d93-a199-ce9b08bcd883.jpeg)
 
 ## <p align=center> PARTE 2: CIRCUITOS EN PARALELO
 
 ## <p align=center> 15.5 Impedancia y admitancia de circuitos RC en paralelo
+![15 5](https://user-images.githubusercontent.com/93829962/154377747-420f5dae-576c-4991-accf-f5d134ba2bea.jpeg)
 
 ## <p align=center> 15.6  Análisis de circuitos RC en paralelo
+![15 6](https://user-images.githubusercontent.com/93829962/154377754-90aff4a7-e6bc-4377-b605-7408fc9bb14c.jpeg)
 
 ## <p align=center> PARTE 3: CIRCUITOS EN SERIE - PARALELO
 
