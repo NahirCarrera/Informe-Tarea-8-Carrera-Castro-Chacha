@@ -8,7 +8,7 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * Analizar los temas comprendidos entre los capítulos 15 y 16 del libro Principios de Circuitos Eléctricos de T. Floyd empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
+  * Analizar los temas comprendidos entre los capítulos 15 y 16 del libro Principios de Circuitos Eléctricos empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
   ### Específicos
   * Estudiar el comportamiento del voltaje, de la corriente y de la impedancia al diseñar circuitos RC y circuitos RL para comprender su funcionamiento.
   * Explicar el análisis de circuitos RC y RL dispuestos en serie y en paralelo a través de herramientas gráficas para la obtención de voltajes, corrientes e impedancias.
