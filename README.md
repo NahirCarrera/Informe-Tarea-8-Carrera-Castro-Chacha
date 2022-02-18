@@ -134,7 +134,7 @@
 ## 4. Video
   * https://www.youtube.com/watch?v=9pp9By_O4bU
 ## 5. Conclusiones
-  *  
+  *  Para realizar el correcto análisis e interpretación de los ejercicios propuestos es de suma importancia hacer una revisión teórica de los temas a tratar, lo que se realizó en forma de mapas conceptuales para sintetizar la imnformación de modo que sea sencillo de comprender. Con ello dentro del tema de circuitos RC se estudió la relación de los componentes cuando se encuentas distribuidos en serie y paralelo o una combinación de ambas y su efecto en el voltaje de salida, además de temas básicos como representaciones rectángulas y angulares de magnitudes para posteriormente utilizarlas para representar las variaciones de voltaje en circuitos compuestos por resistores y capacitancias dentro de disgramas fasoriales, desplazamientos de fase asi mismo la relación que tienen entre sí los componentes de este tipo de circuito para comprender el efecto de la potencia real, reactiva y aparente y el cálculo de la impedancia total cuyo efecto se ve reflejado cuando se busca encontrar el valor de corriente.
   * 
 ## 6. Bibliografía
   * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
