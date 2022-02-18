@@ -82,14 +82,20 @@
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Circuitos RC" y "Circuitos RL".
   ### Capítulo 15 - Ejercicios
 ![Cap 15, 25](https://user-images.githubusercontent.com/93829962/154607749-98e6a3c1-4d31-464c-b9fa-db7237197cee.JPG)
+  
 ![Cap 15, 27](https://user-images.githubusercontent.com/93829962/154607755-7287c114-ec2a-4224-8ee0-96efc136e41b.JPG)
+  
 ![Cap 15, 29-33](https://user-images.githubusercontent.com/93829962/154607759-216d6be7-7ed7-487d-9358-943a5b012389.JPG)
+  
 ![Cap 15, 35-37](https://user-images.githubusercontent.com/93829962/154607775-ed3b74f2-5982-49d9-8431-3ffc48747534.JPG)
+  
 ![Cap 15, 39-41](https://user-images.githubusercontent.com/93829962/154607785-0edbd40d-de86-478e-a3fd-1a8870825bb2.JPG)
+
 ![Cap 15, 43-45](https://user-images.githubusercontent.com/93829962/154607797-a5aec742-bde8-475b-a3ec-906a6822a02f.JPG)
 
   ### Capítulo 16 - Ejercicios
 ![Cap 16, 17-19](https://user-images.githubusercontent.com/93829962/154607809-2adabe70-553d-4bee-a4d9-85961fc3be96.JPG)
+  
 ![Cap 16, 21-25](https://user-images.githubusercontent.com/93829962/154607817-cae7f56d-69fe-4153-b34d-9c42f9ccf741.JPG)
 
 ## 4. Video
