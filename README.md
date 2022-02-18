@@ -15,46 +15,59 @@
   * Realizar el fundamento explicativo de la resolución de ejercicios mediante un archivo audiovisual para el respaldo de los ejercicios resueltos.
 ## 2. Resumen
   # CAPÍTULO 15: <p align=center> Circuitos RC
+    
 ## <p align=center> PARTE 1: CIRCUITOS EN SERIE
+  
 ## <p align=center> 15.1 El sistema de los números complejos
+  
 ![15 1](https://user-images.githubusercontent.com/93829962/154377714-ca974f50-41fd-4738-a618-fd33339e8022.jpeg)
 
 ## <p align=center> 15.2 Respuesta sinusoidal de circuitos RC en serie
+  
 ![15 2](https://user-images.githubusercontent.com/93829962/154377724-8b60e4ab-8cee-44a8-b63b-02ca1c8ef799.jpeg)
 
 ## <p align=center> 15.3 Impedancia de circuitos RC en serie
+  
 ![15 3](https://user-images.githubusercontent.com/93829962/154377731-67281d35-87ad-4671-b467-8658fa3164b0.jpeg)
 
 ## <p align=center> 15.4 Análisis de circuitos RC en serie
+  
 ![15 4](https://user-images.githubusercontent.com/93829962/154377738-2d6b2ada-dc70-4d93-a199-ce9b08bcd883.jpeg)
 
 ## <p align=center> PARTE 2: CIRCUITOS EN PARALELO
 
 ## <p align=center> 15.5 Impedancia y admitancia de circuitos RC en paralelo
+  
 ![15 5](https://user-images.githubusercontent.com/93829962/154377747-420f5dae-576c-4991-accf-f5d134ba2bea.jpeg)
 
 ## <p align=center> 15.6  Análisis de circuitos RC en paralelo
+  
 ![15 6](https://user-images.githubusercontent.com/93829962/154377754-90aff4a7-e6bc-4377-b605-7408fc9bb14c.jpeg)
 
 ## <p align=center> PARTE 3: CIRCUITOS EN SERIE - PARALELO
 
 ## <p align=center> 15.7 Análisis de circuitos RC en serie-paralelo
   
+![15 7](https://user-images.githubusercontent.com/93786746/154624000-ff18c7b5-9a75-44ec-8a3c-65ce949a235b.png)
+  
 ## <p align=center> PARTE 4: TEMAS ESPECIALES  
   
 ## <p align=center> 15.8 Potencia en circuitos RC
+  
+![15 8](https://user-images.githubusercontent.com/93786746/154624048-abf89e51-3535-4cf8-a580-ff730c888144.png)
 
-## <p align=center> 15.9 Aplicaciones básicas
-
-## <p align=center> 15.10 Localización de fallas. Una aplicación de circuito
-
+## <p align=center> 15.9-10 Aplicaciones básicas, localización de fallas
+  
+![15 9 - 10](https://user-images.githubusercontent.com/93786746/154624055-e5b4ec9c-3386-47c1-8443-60d04c5a20bf.png)
 
   # CAPÍTULO 16: <p align=center> Circuitos RL
 ## <p align=center> PARTE 1: CIRCUITOS EN SERIE 
 
 ## <p align=center> 16.1 Respuesta sinusoidal de circuitos RL en serie
+![16 1](https://user-images.githubusercontent.com/93786746/154624324-6398ad17-83b9-40df-a798-7d9d564219fa.png)
 
 ## <p align=center> 16.2 Impedancia de circuitos RL en serie
+![16 2](https://user-images.githubusercontent.com/93786746/154624429-544585bd-01ce-4fcc-9a8d-3674c15356ba.png)
 
 ## <p align=center> 16.3 Análisis de circuitos RL en serie
   
@@ -81,6 +94,18 @@
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Circuitos RC" y "Circuitos RL".
   ### Capítulo 15 - Ejercicios
+  
+![image](https://user-images.githubusercontent.com/93786746/154624965-42e4f12f-6bd4-4dc7-8627-74e0218d4d32.png)
+
+![image](https://user-images.githubusercontent.com/93786746/154625060-14ae773c-7243-4ac5-8d34-3b374a4878a2.png)
+![image](https://user-images.githubusercontent.com/93786746/154626494-9c6a3c3c-1b90-4d73-b733-9e8e1de22ee0.png)
+![image](https://user-images.githubusercontent.com/93786746/154626544-6e012412-2e83-4f64-bd44-3cb3df1fbfae.png)
+![image](https://user-images.githubusercontent.com/93786746/154626574-9d11b49a-397a-4623-b488-c1e2158d67b5.png)
+![image](https://user-images.githubusercontent.com/93786746/154626615-ae5bec99-c772-4213-ba3e-f52b18d3e44d.png)
+![image](https://user-images.githubusercontent.com/93786746/154626678-b12d5a6a-cf69-4c77-9a75-a81cd0014cef.png)
+![image](https://user-images.githubusercontent.com/93786746/154626717-78b309ea-50d1-40a7-af57-5bba8ece2474.png)
+
+
 ![Cap 15, 25](https://user-images.githubusercontent.com/93829962/154607749-98e6a3c1-4d31-464c-b9fa-db7237197cee.JPG)
   
 ![Cap 15, 27](https://user-images.githubusercontent.com/93829962/154607755-7287c114-ec2a-4224-8ee0-96efc136e41b.JPG)
@@ -98,8 +123,16 @@
   
 ![Cap 16, 21-25](https://user-images.githubusercontent.com/93829962/154607817-cae7f56d-69fe-4153-b34d-9c42f9ccf741.JPG)
 
-## 4. Video
+![image](https://user-images.githubusercontent.com/93786746/154626863-3a304254-3994-4d7c-b191-b9337ee0b79e.png)
+![image](https://user-images.githubusercontent.com/93786746/154626888-a2d0040a-afa7-4e0e-8b13-eb763c18c936.png)
+![image](https://user-images.githubusercontent.com/93786746/154626951-7b0f619c-19dc-4449-9681-ed01695f7de0.png)
+![image](https://user-images.githubusercontent.com/93786746/154627052-08005a5d-4283-433a-8ac2-82c774f0a154.png)
+![image](https://user-images.githubusercontent.com/93786746/154627077-d5c13988-39cb-490e-a91c-59c00941764b.png)
+![image](https://user-images.githubusercontent.com/93786746/154627109-47250edd-efcf-4a7b-a314-773167306bc3.png)
+![image](https://user-images.githubusercontent.com/93786746/154627141-59467060-0c31-41db-aa81-9c3715a8093b.png)
 
+## 4. Video
+  * https://www.youtube.com/watch?v=9pp9By_O4bU
 ## 5. Conclusiones
   *  
   * 
