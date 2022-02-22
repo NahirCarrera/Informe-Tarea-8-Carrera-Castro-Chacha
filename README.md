@@ -124,6 +124,10 @@
 ![Cap 15, 39-41](https://user-images.githubusercontent.com/93829962/154607785-0edbd40d-de86-478e-a3fd-1a8870825bb2.JPG)
 
 ![Cap 15, 43-45](https://user-images.githubusercontent.com/93829962/154607797-a5aec742-bde8-475b-a3ec-906a6822a02f.JPG)
+![image](https://user-images.githubusercontent.com/93829976/155224605-1747297b-3f3b-469d-b668-2b97a6adb6b4.png)
+![image](https://user-images.githubusercontent.com/93829976/155224685-1e172994-8d35-4894-8555-daf0610bd0cb.png)
+![image](https://user-images.githubusercontent.com/93829976/155225072-66cef8b4-a02f-4e88-8eb6-38e4191c52aa.png)
+![image](https://user-images.githubusercontent.com/93829976/155225127-6ca33794-c5c3-42a8-8501-76139419080e.png)
 
   ### Capítulo 16 - Ejercicios
 ![Cap 16, 17-19](https://user-images.githubusercontent.com/93829962/154607809-2adabe70-553d-4bee-a4d9-85961fc3be96.JPG)
