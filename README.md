@@ -70,24 +70,31 @@
 ![16 2](https://user-images.githubusercontent.com/93786746/154624429-544585bd-01ce-4fcc-9a8d-3674c15356ba.png)
 
 ## <p align=center> 16.3 Análisis de circuitos RL en serie
-  
+  ![Cap16 TEMAS - Página 1](https://user-images.githubusercontent.com/93829976/155222501-9ac8f37f-dabe-4f91-bd97-caa426a81088.jpeg)
+
 ## <p align=center> PARTE 2: CIRCUITOS EN PARALELO 
 
 ## <p align=center> 16.4 Impedancia y admitancia de circuitos RL en paralelo
+![Cap16 TEMAS - Página 2](https://user-images.githubusercontent.com/93829976/155222514-ad5e97be-3a2f-41f2-b378-c59f24094c70.jpeg)
 
 ## <p align=center> 16.5 Análisis de circuitos RL en paralelo
+![Cap16 TEMAS - Página 3](https://user-images.githubusercontent.com/93829976/155222523-f4240e78-e3b6-482c-bd8c-73623d9dff30.jpeg)
 
 ## <p align=center> PARTE 3: CIRCUITOS EN SERIE - PARALELO 
 
 ## <p align=center> 16.6 Análisis de circuitos RL en serie-paralelo
-  
+  ![Cap16 TEMAS - Página 4](https://user-images.githubusercontent.com/93829976/155222560-efb2e347-2dd4-4985-849c-7838a9922d33.jpeg)
+
 ## <p align=center> PARTE 4: TEMAS ESPECIALES
 
 ## <p align=center> 16.7 Potencia en circuitos RL
+![Cap16 TEMAS - Página 5](https://user-images.githubusercontent.com/93829976/155222575-778c33a5-fb7a-4f85-9df2-badc73f079b2.jpeg)
 
 ## <p align=center> 16.8 Aplicaciones básicas
+![Cap16 TEMAS - Página 6](https://user-images.githubusercontent.com/93829976/155222588-891c8ac3-f922-4420-b7b6-23f1306bcf23.jpeg)
 
 ## <p align=center> 16.9 Localización de fallas. Una aplicación de circuito
+![Cap16 TEMAS - Página 7](https://user-images.githubusercontent.com/93829976/155222597-3d6d0450-5315-4bab-a9a9-38a6bb03b169.jpeg)
 
 
 ## 3. Explicación y resolución de ejercicios
